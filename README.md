@@ -1,5 +1,5 @@
 # Clarify
-HTN2022 Project
+Project created for Hack the North 2022
 
 Created by: Daniel Locke and Chloe Houvardas
 
